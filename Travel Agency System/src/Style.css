@@ -1,0 +1,22 @@
+.button {
+    -fx-background-radius: 45;
+    -fx-background-color: grey;
+}
+
+.ui {
+    -fx-background-color: transparent; 
+    -fx-border-color: black; 
+    -fx-border-width: 0px 0px 1px 0px;
+}
+
+.bg {
+    -fx-background-image: url('AH.jpg');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.bg2 {
+    -fx-background-image: url('RCD.jpeg');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
